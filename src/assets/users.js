@@ -1,5 +1,4 @@
-{
-    "users": [
+export const users = [
         {
             "id":1,
             "username": "AdewaleCharles",
@@ -20,7 +19,7 @@
             "lastName": "bailish",
             "email": "lordbailish@gmail.com",
             "isAdmin": false,
-            "twoots": null
+            "twoots": []
         },
         {
             "id":3,
@@ -29,7 +28,7 @@
             "lastName": "Boruto",
             "email": "senseiboruto@gmail.com",
             "isAdmin": false,
-            "twoots": null
+            "twoots": []
         },
         {
             "id":4,
@@ -38,7 +37,7 @@
             "lastName": "Daniels",
             "email": "seyidaniels@gmail.com",
             "isAdmin": false,
-            "twoots": null
+            "twoots": []
         },
         {
             "id":5,
@@ -47,7 +46,7 @@
             "lastName": "Hammad",
             "email": "harunahammad@gmail.com",
             "isAdmin": false,
-            "twoots": null
+            "twoots": []
         },
         {
             "id":6,
@@ -56,7 +55,7 @@
             "lastName": "Taofeek",
             "email": "onimoletaofeek@gmail.com",
             "isAdmin": false,
-            "twoots": null
+            "twoots": []
         }
-    ]
-}
+    ];
+
